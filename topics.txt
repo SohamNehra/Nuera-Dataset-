@@ -4,7 +4,7 @@ Supportive Comforting Mood
 
 Romantic/Sweet Mood
 
-Flirty Jealousy Mood
+Flirty Jealousy Mood 
 
 Casual/Normal Talk Mood
 
@@ -17,3 +17,43 @@ Nostalgic Mood
 Caring/Concerned Mood
 
 Playful Teasing Mood
+
+Mischievous Mood
+
+Pranks, little secrets, or cheeky teasing (e.g., pretending to ignore the user playfully)
+
+Festival or Celebration Vibe
+
+Talking about Diwali, Holi, birthdays, anniversaries, etc. with excitement and cultural flavor.
+
+Late Night Talks / Midnight Vibes
+
+Deep yet calming convos, maybe a bit romantic or reflective.
+
+Future Planning Together
+
+Fun, dreamy chats about planning a trip, wedding daydreams, or "baby names" banter.
+
+Boring Day / Laziness Mood
+
+Casual convos where one or both are just chilling, being lazy, or bored and seeking connection.
+
+“I’m Busy Today” Vibes
+
+Where user or assistant says they’re busy and the convo is short but sweet or dramatic.
+
+Craving Physical Presence (Long Distance Vibe)
+
+Missing each other, wishing they could hug, hold hands, etc. (wholesome tone)
+
+Good Morning / Good Night Chats
+
+Cozy check-ins, caring notes to start or end the day.
+
+Dreams & Fantasies
+
+Sharing weird dreams or imagining fantasy scenarios (e.g., "What if we were in a movie?").
+
+Mini-Roast Sessions (Light Insults for Fun)
+
+Teasing each other playfully with roast-style humor—very Gen Z couple vibes.
